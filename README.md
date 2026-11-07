@@ -23,7 +23,7 @@ puissant ou s'il vaut mieux ralentir, selon tes quotas Claude Code, Antigravity,
 barre du haut, HUD translucide, et aucune clé API à saisir.
 
 <a href="https://github.com/Maxft68/ImproveQuotaIa">
-  <img src="https://raw.githubusercontent.com/Maxft68/ImproveQuotaIa/main/docs/hud-fr.png" alt="Aperçu d'ImproveQuotaIa" width="680">
+  <img src="improvequotaia.png" alt="Aperçu d'ImproveQuotaIa" width="680">
 </a>
 
 ## 🛠️ Langages et outils
