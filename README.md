@@ -42,7 +42,7 @@ barre du haut, HUD translucide, et aucune clé API à saisir.
 Toujours partant pour un retour, une idée ou une collaboration : ouvre une issue sur un de mes projets, je réponds avec
 plaisir.
 
-<a href="https://ko-fi.com/Maxft68"><img src="https://img.shields.io/badge/Ko--fi-M'offrir%20un%20chocolat%20chaud-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="M'offrir un chocolat chaud sur Ko-fi"></a>
+<a href="https://ko-fi.com/Maxft68"><img src="https://img.shields.io/badge/Ko--fi-M'offrir%20un%20chocolat%20chaud-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="M'offrir un chocolat chaud"></a>
 
 ---
 
